@@ -1,0 +1,6 @@
+Hello this is a test file 
+abcdefgh ijkl mnopqrst uvwxyz
+1234567890 
+-=+!`~@#$%^&*()_+
+.,/":<>?][{}\| 
+Testing all characters available on the keyboard 			
